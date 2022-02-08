@@ -11,7 +11,7 @@ class LuciferMoringstar(object):
 
 ✈️ 𝖡𝖮𝖳 𝖮𝖶𝖭𝖤𝖱 : [𝗥𝗢𝗖𝗞𝗬 𝗕𝗛𝗔𝗜](t.me/TEAM_KERALA)
 
-👻 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 : [Click Here](https://github.com/TEAM-FLUFFY/FluffyV1)
+👻 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 : [ՏOᑌᖇᑕᗴ ᑕOᗪᗴ](https://github.com/TEAM-FLUFFY/FluffyV1)
 
 🖇️ 𝖴𝖯𝖣𝖠𝖳𝖤 𝖢𝖧𝖠𝖭𝖭𝖤𝖫 : [𝗔𝗛 𝗖𝗛𝗔𝗡𝗡𝗘𝗟](t.me/ADHOLOKAMHDCHANNEL)
 
