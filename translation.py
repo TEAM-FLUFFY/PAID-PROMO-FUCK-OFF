@@ -2,30 +2,20 @@ class LuciferMoringstar(object):
 
     DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎\nAdd Me To Your Group And Make Sure Iam Admin There! \nAnd Enjoy My Pever Show.....!!!🤪"""
 
-    HELP_MSG = """**Help Veno Monuse 🤣**"""
+    HELP_MSG = """**𝗙𝗨𝗖𝗞 𝗢𝗙𝗙 𝗞𝗘𝗥𝗔𝗟𝗔**"""
 
     ABOUT_MSG = """
-🤖 My Name [{bot_name}](t.me/{bot_username})
+🤖 𝖬𝖸 𝖭𝖠𝖬𝖤 [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [PR0FESS0R-99](t.me/PR0FESS0R_99)
+📌 𝖣𝖤𝖵𝖤𝖫𝖮𝖯𝖤𝖱 : [𝗥𝗢𝗖𝗞𝗬 𝗕𝗛𝗔𝗜](t.me/TEAM_KERALA)
 
-🧑 My Creator : {dev_name}
+✈️ 𝖡𝖮𝖳 𝖮𝖶𝖭𝖤𝖱 : [𝗥𝗢𝗖𝗞𝗬 𝗕𝗛𝗔𝗜](t.me/TEAM_KERALA)
 
-📦 My Source : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+👻 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 : [Click Here](https://github.com/TEAM-FLUFFY/FluffyV1)
 
-📺 My Tutorial : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
+🖇️ 𝖴𝖯𝖣𝖠𝖳𝖤 𝖢𝖧𝖠𝖭𝖭𝖤𝖫 : [𝗔𝗛 𝗖𝗛𝗔𝗡𝗡𝗘𝗟](t.me/ADHOLOKAMHDCHANNEL)
 
-🗃️ My Library : [Pyrogram](https://youtu.be/Af055Eozk9s)
-
-🖇️ My Language : [Python3](https://youtu.be/Af055Eozk9s)
-
-🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
-
-🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
-
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
-
-🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
+📽️ 𝖬𝖮𝖵𝖨𝖤 𝖦𝖱𝖮𝖴𝖯 : [𝗔𝗛 𝗚𝗥𝗢𝗨𝗣](t.me/TEAM_KERALA)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
