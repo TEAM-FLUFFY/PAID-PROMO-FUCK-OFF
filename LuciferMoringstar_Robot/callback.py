@@ -32,14 +32,14 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 buttons = data['buttons'][int(index)+1].copy()
 
                 buttons.append(
-                    [InlineKeyboardButton("🔙 Back Page", callback_data=f"backgroup_{int(index)+1}_{keyword}")]
+                    [InlineKeyboardButton("𝙱𝙰𝙲𝙺 𝙿𝙰𝙶𝙴", callback_data=f"backgroup_{int(index)+1}_{keyword}")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(f"📃 Pages {int(index)+2}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
+                    [InlineKeyboardButton(f"🎭 𝙿𝙰𝙶𝙴𝚂 {int(index)+2}/{data['total']}", callback_data="pages"),
+                     InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+                    [InlineKeyboardButton(text="🎗️ 𝙵𝙸𝙻𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼 𝙲𝙷𝙴𝙲𝙺 🎗️", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -50,14 +50,14 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 buttons = data['buttons'][int(index)+1].copy()
 
                 buttons.append(
-                    [InlineKeyboardButton("🔙 Back Page", callback_data=f"backgroup_{int(index)+1}_{keyword}"),InlineKeyboardButton("Next Page ➡", callback_data=f"nextgroup_{int(index)+1}_{keyword}")]
+                    [InlineKeyboardButton("𝙱𝙰𝙲𝙺 𝙿𝙰𝙶𝙴", callback_data=f"backgroup_{int(index)+1}_{keyword}"),InlineKeyboardButton("Next Page ➡", callback_data=f"nextgroup_{int(index)+1}_{keyword}")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(f"📃 Pages {int(index)+2}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
+                    [InlineKeyboardButton(f"🎭 𝙿𝙰𝙶𝙴𝚂 {int(index)+2}/{data['total']}", callback_data="pages"),
+                     InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+                    [InlineKeyboardButton(text="🎗️ 𝙵𝙸𝙻𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼 𝙲𝙷𝙴𝙲𝙺 🎗️", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -77,14 +77,14 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 buttons = data['buttons'][int(index)-1].copy()
 
                 buttons.append(
-                    [InlineKeyboardButton("Next Page ➡", callback_data=f"nextgroup_{int(index)-1}_{keyword}")]
+                    [InlineKeyboardButton("𝙽𝙴𝚇𝚃 𝙿𝙰𝙶𝙴", callback_data=f"nextgroup_{int(index)-1}_{keyword}")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(f"📃 Pages {int(index)}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
+                    [InlineKeyboardButton(f"🎭 𝙿𝙰𝙶𝙴 {int(index)}/{data['total']}", callback_data="pages"),
+                     InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+                    [InlineKeyboardButton(text="🎗️ 𝙵𝙸𝙻𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼 𝙲𝙷𝙴𝙲𝙺 🎗️", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
                 )
                 await query.edit_message_reply_markup( 
                     reply_markup=InlineKeyboardMarkup(buttons)
@@ -94,14 +94,14 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 buttons = data['buttons'][int(index)-1].copy()
 
                 buttons.append(
-                    [InlineKeyboardButton("🔙 Back Page", callback_data=f"backgroup_{int(index)-1}_{keyword}"),InlineKeyboardButton("Next Page ➡", callback_data=f"nextgroup_{int(index)-1}_{keyword}")]
+                    [InlineKeyboardButton("𝙱𝙰𝙲𝙺 𝙿𝙰𝙶𝙴", callback_data=f"backgroup_{int(index)-1}_{keyword}"),InlineKeyboardButton("Next Page ➡", callback_data=f"nextgroup_{int(index)-1}_{keyword}")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(f"📃 Pages {int(index)}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
+                    [InlineKeyboardButton(f"🎭 𝙿𝙰𝙶𝙴 {int(index)}/{data['total']}", callback_data="pages"),
+                     InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+                    [InlineKeyboardButton(text="🎗️ 𝙵𝙸𝙻𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼 𝙲𝙷𝙴𝙲𝙺 🎗️", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -124,11 +124,11 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 buttons = data['buttons'][int(index)+1].copy()
 
                 buttons.append(
-                    [InlineKeyboardButton("🔙 Back Page", callback_data=f"backbot_{int(index)+1}_{keyword}")]
+                    [InlineKeyboardButton("𝙱𝙰𝙲𝙺 𝙿𝙰𝙶𝙴", callback_data=f"backbot_{int(index)+1}_{keyword}")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(f"📃 Pages {int(index)+2}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
+                    [InlineKeyboardButton(f"🎭 𝙿𝙰𝙶𝙴𝚂 {int(index)+2}/{data['total']}", callback_data="pages"),
+                     InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -139,11 +139,11 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 buttons = data['buttons'][int(index)+1].copy()
 
                 buttons.append(
-                    [InlineKeyboardButton("🔙 Back Page", callback_data=f"backbot_{int(index)+1}_{keyword}"),InlineKeyboardButton("Next Page ➡", callback_data=f"nextbot_{int(index)+1}_{keyword}")]
+                    [InlineKeyboardButton("𝙱𝙰𝙲𝙺 𝙿𝙰𝙶𝙴", callback_data=f"backbot_{int(index)+1}_{keyword}"),InlineKeyboardButton("Next Page ➡", callback_data=f"nextbot_{int(index)+1}_{keyword}")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(f"📃 Pages {int(index)+2}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
+                    [InlineKeyboardButton(f"🎭 𝙿𝙰𝙶𝙴𝚂 {int(index)+2}/{data['total']}", callback_data="pages"),
+                     InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -163,11 +163,11 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 buttons = data['buttons'][int(index)-1].copy()
 
                 buttons.append(
-                    [InlineKeyboardButton("Next Page ➡", callback_data=f"nextbot_{int(index)-1}_{keyword}")]
+                    [InlineKeyboardButton("𝙽𝙴𝚇𝚃 𝙿𝙰𝙶𝙴", callback_data=f"nextbot_{int(index)-1}_{keyword}")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(f"📃 Pages {int(index)}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
+                    [InlineKeyboardButton(f"🎭 𝙿𝙰𝙶𝙴𝚂 {int(index)}/{data['total']}", callback_data="pages"),
+                     InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -178,11 +178,11 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 buttons = data['buttons'][int(index)-1].copy()
 
                 buttons.append(
-                    [InlineKeyboardButton("🔙 Back Page", callback_data=f"backbot_{int(index)-1}_{keyword}"),InlineKeyboardButton("Next Page ➡", callback_data=f"nextbot_{int(index)-1}_{keyword}")]
+                    [InlineKeyboardButton("𝙱𝙰𝙲𝙺 𝙿𝙰𝙶𝙴", callback_data=f"backbot_{int(index)-1}_{keyword}"),InlineKeyboardButton("Next Page ➡", callback_data=f"nextbot_{int(index)-1}_{keyword}")]
                 )
                 buttons.append(
-                    [InlineKeyboardButton(f"📃 Pages {int(index)}/{data['total']}", callback_data="pages"),
-                     InlineKeyboardButton("Close 🗑️", callback_data="close")]
+                    [InlineKeyboardButton(f"🎭 𝙿𝙰𝙶𝙴𝚂 {int(index)}/{data['total']}", callback_data="pages"),
+                     InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
                 )
 
                 await query.edit_message_reply_markup( 
@@ -250,7 +250,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 if f_caption is None:
                     f_caption = LuciferMoringstar.FILE_CAPTIONS
                 buttons = [[
-                  InlineKeyboardButton('🎗️𝗚𝗥𝗢𝗨𝗣🎗️', url='https://t.me/Mo_Tech_Group')
+                  InlineKeyboardButton('💡 𝗚𝗥𝗢𝗨𝗣 💡', url='https://t.me/ADHOLOKAMHD')
                   ]]                 
                 
                 await query.answer()
@@ -268,44 +268,44 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
         elif query.data == "start":
             if query.from_user.id not in ADMINS: 
                 buttons = [[
-                 InlineKeyboardButton("➕️ Add me to ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
+                 InlineKeyboardButton("✈️ ᗩᗪᗪ ᗰᗴ TO ᗩ ᑕᕼᗩT ᘜᖇOᑌᑭ ✈️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
                  ],[
-                 InlineKeyboardButton("ℹ️ Help", callback_data="help"),
-                 InlineKeyboardButton("😎 About", callback_data="about") 
+                 InlineKeyboardButton("❤️ ᕼᗴᒪᑭ", callback_data="help"),
+                 InlineKeyboardButton("👻 ᗩᗷOᑌT", callback_data="about") 
                  ],[
-                 InlineKeyboardButton("🗳 Deploy", url="https://youtu.be/FCU_XJmyG_U"),
-                 InlineKeyboardButton("🤖 Update", url="https://t.me/Mo_Tech_Group")
+                 InlineKeyboardButton("💡 ᘜᖇOᑌᑭ", url="https://t.me/ADHOLOKAMHD"),
+                 InlineKeyboardButton("💡 ᑕᕼᗩᑎᑎᗴᒪ", url="https://t.me/ADHOLOKAMHDCHANNEL")
                  ]]
             else:
                 buttons = [[
-                 InlineKeyboardButton("➕️ Add me to ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
+                 InlineKeyboardButton("✈️ ᗩᗪᗪ ᗰᗴ TO ᗩ ᑕᕼᗩT ᘜᖇOᑌᑭ ✈️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
                  ],[
-                 InlineKeyboardButton("ℹ️ Help", callback_data="bot_owner"),
-                 InlineKeyboardButton("😎 About", callback_data="about") 
+                 InlineKeyboardButton("❤️ ᕼᗴᒪᑭ", callback_data="bot_owner"),
+                 InlineKeyboardButton("👻 ᗩᗷOᑌT", callback_data="about") 
                  ],[
-                 InlineKeyboardButton("🗳 Deploy", url="https://youtu.be/FCU_XJmyG_U"),
-                 InlineKeyboardButton("🤖 Update", url="https://t.me/Mo_Tech_Group")
+                 InlineKeyboardButton("💡 ᘜᖇOᑌᑭ", url="https://t.me/ADHOLOKAMHD"),
+                 InlineKeyboardButton("💡 ᑕᕼᗩᑎᑎᗴᒪ", url="https://t.me/ADHOLOKAMHDCHANNEL")
                  ]]               
             await query.message.edit(text=START_MSG.format(mention=query.from_user.mention, bot_name=bot_info.BOT_NAME, bot_username=bot_info.BOT_USERNAME), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
         elif query.data == "help":
             buttons = [[
-              InlineKeyboardButton("🏠 Home", callback_data="start"),
-              InlineKeyboardButton("About 😎", callback_data="about")
+              InlineKeyboardButton("🏡 ᕼOᗰᗴ", callback_data="start"),
+              InlineKeyboardButton("👻 ᗩᗷOᑌT", callback_data="about")
               ]]               
             await query.message.edit(text=LuciferMoringstar.HELP_MSG.format(mention=query.from_user.mention), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
         elif query.data == "about":
             buttons = [[
-             InlineKeyboardButton("🏠 Home", callback_data="start"),
-             InlineKeyboardButton("Close 🗑️", callback_data="close")
+             InlineKeyboardButton("🏡 ᕼOᗰᗴ", callback_data="start"),
+             InlineKeyboardButton("ᑕᒪOՏᗴ", callback_data="close")
              ]]               
             await query.message.edit(text=LuciferMoringstar.ABOUT_MSG.format(mention=query.from_user.mention, bot_name=bot_info.BOT_NAME, bot_username=bot_info.BOT_USERNAME, dev_name=DEV_NAME), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
         elif query.data == "bot_owner":
             buttons = [[
-             InlineKeyboardButton('🏠 Home', callback_data="start"),
-             InlineKeyboardButton('About 😎', callback_data="about")
+             InlineKeyboardButton('🏡 ᕼOᗰᗴ', callback_data="start"),
+             InlineKeyboardButton('👻 ᗩᗷOᑌT', callback_data="about")
              ]]               
             await query.message.edit(text=LuciferMoringstar.PR0FESS0R_99.format(mention=query.from_user.mention), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
