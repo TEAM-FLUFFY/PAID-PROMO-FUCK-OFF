@@ -221,7 +221,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                         file_id=file_id,
                         caption=f_caption
                         )
-                    await query.answer('𝙷𝙴𝚈 {query.from_user.first_name} 𝙲𝙷𝙴𝙲𝙺 𝙿𝙼, 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙴𝙽𝚃 𝙵𝙸𝙻𝙴 𝚈𝙾𝚄𝚁 𝙿𝙼.. ❤️❤️',show_alert = True)
+                    await query.answer(𝙷𝙴𝚈 𝙼𝚈 𝙵𝚁𝙸𝙴𝙽𝙳 𝙲𝙷𝙴𝙲𝙺 𝙿𝙼, 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙴𝙽𝚃 𝙵𝙸𝙻𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼.. ❤️❤️',show_alert = True)
             except UserIsBlocked:
                 await query.answer('Unblock the bot mahn !',show_alert = True)
             except PeerIdInvalid:
