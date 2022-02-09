@@ -2,7 +2,12 @@ class LuciferMoringstar(object):
 
     DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎\nAdd Me To Your Group And Make Sure Iam Admin There! \nAnd Enjoy My Pever Show.....!!!🤪"""
 
-    HELP_MSG = """**𝗙𝗨𝗖𝗞 𝗢𝗙𝗙 𝗞𝗘𝗥𝗔𝗟𝗔**"""
+    HELP_MSG = """ » /broadcast - Reply Any Medi Or Message
+ » /delete - Reply Files
+ » /deleteall - Delete All Files
+ » /total - How Many Files Saved
+ » /logger - Get Bot Logs
+ » /channel - Add Channel List"""
 
     ABOUT_MSG = """
 🤖 𝖬𝖸 𝖭𝖠𝖬𝖤 [{bot_name}](t.me/{bot_username})
@@ -35,16 +40,16 @@ Hello 👋〘 {mention} 〙,
 
 Couldn't Find {query}?  Please Click Your Request Movie Name"""
     GET_MOVIE_1 = """
-📽️ Requested Movie : [{query}]({url})
-👤 Requested By : {mention}
-🎬 Title : [{title}]({url})
-📆 Year : {year}
-🌟 Rating {rating}/10
-🗨️ Genres {genres}"""
+📽️ 𝗥𝗘𝗤𝗨𝗦𝗧𝗘𝗗 𝗠𝗢𝗩𝗜𝗘 : [{query}]({url})
+👻 𝗥𝗘𝗤𝗨𝗘𝗦𝗧𝗘𝗗 𝗕𝗬 : {mention}
+📌 𝗧𝗜𝗧𝗟𝗘 : [{title}]({url})
+🎗️ 𝗬𝗘𝗔𝗥 : {year}
+⚡ 𝗥𝗔𝗧𝗜𝗡𝗚 {rating}/10
+🤠 𝗚𝗘𝗡𝗥𝗘𝗦 {genres}"""
 
 
     GET_MOVIE_2 = """
-📽️ Requested Movie : {query}
-👤 Requested By : {mention}
+📽️ 𝗥𝗘𝗤𝗨𝗘𝗦𝗧𝗘𝗗 𝗠𝗢𝗩𝗜𝗘 : {query}
+👻 𝗥𝗘𝗤𝗨𝗘𝗦𝗧𝗘𝗗 𝗕𝗬 : {mention}
 
 © **{chat}**"""
