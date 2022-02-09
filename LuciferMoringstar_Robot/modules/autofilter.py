@@ -52,11 +52,11 @@ async def group_filters(client, message):
         else:
             buttons = btn
             buttons.append(
-                [InlineKeyboardButton(text="📃 Pages 1/1",callback_data="pages"),
-                 InlineKeyboardButton("Close 🗑️", callback_data="close")]
+                [InlineKeyboardButton(text="🎭 𝙿𝙰𝙶𝙴𝚂 1/1",callback_data="pages"),
+                 InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
             )
             buttons.append(
-                [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+                [InlineKeyboardButton(text="🎗️ 𝙵𝙸𝙻𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼 𝙲𝙷𝙴𝙲𝙺🎗️", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
             )
 
             imdb=await get_poster(search)
@@ -78,14 +78,14 @@ async def group_filters(client, message):
         buttons = data['buttons'][0].copy()
 
         buttons.append(
-            [InlineKeyboardButton(text="Next Page ➡",callback_data=f"nextgroup_0_{keyword}")]
+            [InlineKeyboardButton(text="𝙽𝙴𝚇𝚃 𝙿𝙰𝙶𝙴",callback_data=f"nextgroup_0_{keyword}")]
         )    
         buttons.append(
-            [InlineKeyboardButton(text=f"📃 Pages 1/{data['total']}",callback_data="pages"),
-             InlineKeyboardButton("Close 🗑️", callback_data="close")]
+            [InlineKeyboardButton(text=f"🎭 𝙿𝙰𝙶𝙴𝚂 1/{data['total']}",callback_data="pages"),
+             InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
         )
         buttons.append(
-            [InlineKeyboardButton(text="🤖 CHECK MY PM 🤖", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
+            [InlineKeyboardButton(text="🎗️ 𝙵𝙸𝙻𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼 𝙲𝙷𝙴𝙲𝙺 🎗️", url=f"https://telegram.dog/{bot_info.BOT_USERNAME}")]
         )
 
         imdb=await get_poster(search)
@@ -146,8 +146,8 @@ async def pm_autofilter(client, message):
         else:
             buttons = btn
             buttons.append(
-                [InlineKeyboardButton(text="📃 Pages 1/1",callback_data="pages"),
-                 InlineKeyboardButton("Close 🗑️", callback_data="close")]
+                [InlineKeyboardButton(text="🎭 𝙿𝙰𝙶𝙴𝚂 1/1",callback_data="pages"),
+                 InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
             )
 
 
@@ -171,11 +171,11 @@ async def pm_autofilter(client, message):
         buttons = data['buttons'][0].copy()
 
         buttons.append(
-            [InlineKeyboardButton(text="Next Page ➡",callback_data=f"nextgroup_0_{keyword}")]
+            [InlineKeyboardButton(text="𝙽𝙴𝚇𝚃 𝙿𝙰𝙶𝙴",callback_data=f"nextgroup_0_{keyword}")]
         )    
         buttons.append(
-            [InlineKeyboardButton(text=f"📃 Pages 1/{data['total']}",callback_data="pages"),
-             InlineKeyboardButton("Close 🗑️", callback_data="close")]
+            [InlineKeyboardButton(text=f"🎭 𝙿𝙰𝙶𝙴𝚂 1/{data['total']}",callback_data="pages"),
+             InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data="close")]
         )
 
         imdb=await get_poster(search)
