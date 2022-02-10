@@ -26,7 +26,7 @@
 - [x] Custom Caption
 
 ### CLICK BELOW IMAGE AND DEPLOY👇👇
-<a href="https://heroku.com/deploy?template=https://https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY"><img src="https://telegra.ph/file/ea4791eb4e1b0b267aa05.jpg" alt="PR0FESS0R-99" border="0" height="420" width="300" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY"><img src="https://telegra.ph/file/ea4791eb4e1b0b267aa05.jpg" alt="PR0FESS0R-99" border="0" height="420" width="400" align="center" /></a>
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
 
