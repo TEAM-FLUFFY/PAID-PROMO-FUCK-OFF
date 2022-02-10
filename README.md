@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://telegra.ph/file/412a0ec30c9bb5a4cae13.jpg" /></a>
+  <img src="https://telegra.ph/file/a61f824573cd189934362.jpg" /></a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/TEAM_KERALA">ᖇOᑕKY ᗷᕼᗩI</a>
+  <a href="https://t.me/TEAM_KERALA">ᖴᑌᑕK Oᖴᖴ</a>
 </p>
 
 <img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" /> <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" />
