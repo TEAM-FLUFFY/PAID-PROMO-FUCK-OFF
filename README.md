@@ -1,5 +1,5 @@
 <p align="center">
-  <img https://telegra.ph/file/412a0ec30c9bb5a4cae13.jpg" alt="RockyBhai BotLogo">
+  <img https://telegra.ph/file/412a0ec30c9bb5a4cae13.jpg">
 </p>
 
 <p align="center">
