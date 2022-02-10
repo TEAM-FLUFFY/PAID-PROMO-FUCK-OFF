@@ -12,15 +12,15 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 𝖬𝖸 𝖭𝖠𝖬𝖤 [{bot_name}](t.me/{bot_username})
 
-📌 𝖣𝖤𝖵𝖤𝖫𝖮𝖯𝖤𝖱 : [𝗥𝗢𝗖𝗞𝗬 𝗕𝗛𝗔𝗜](t.me/TEAM_KERALA)
+📌 𝖣𝖤𝖵𝖤𝖫𝖮𝖯𝖤𝖱 : [ᖴᑌᑕK Oᖴᖴ](t.me/TEAM_KERALA)
 
-✈️ 𝖡𝖮𝖳 𝖮𝖶𝖭𝖤𝖱 : [𝗥𝗢𝗖𝗞𝗬 𝗕𝗛𝗔𝗜](t.me/TEAM_KERALA)
+✈️ 𝖡𝖮𝖳 𝖮𝖶𝖭𝖤𝖱 : [ᖴᑌᑕK Oᖴᖴ](t.me/TEAM_KERALA)
 
 👻 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 : [ՏOᑌᖇᑕᗴ ᑕOᗪᗴ](https://github.com/TEAM-FLUFFY/FluffyV1)
 
-🖇️ 𝖴𝖯𝖣𝖠𝖳𝖤 𝖢𝖧𝖠𝖭𝖭𝖤𝖫 : [𝗔𝗛 𝗖𝗛𝗔𝗡𝗡𝗘𝗟](t.me/ADHOLOKAMHDCHANNEL)
+🖇️ 𝖴𝖯𝖣𝖠𝖳𝖤 𝖢𝖧𝖠𝖭𝖭𝖤𝖫 : [ᗩᕼ ᑕᕼᗩᑎᑎᗴᒪ](t.me/ADHOLOKAMHDCHANNEL)
 
-📽️ 𝖬𝖮𝖵𝖨𝖤 𝖦𝖱𝖮𝖴𝖯 : [𝗔𝗛 𝗚𝗥𝗢𝗨𝗣](t.me/TEAM_KERALA)"""
+📽️ 𝖬𝖮𝖵𝖨𝖤 𝖦𝖱𝖮𝖴𝖯 : [ᗩᕼ ᘜᖇOᑌᑭ](t.me/ADHOLOKAMHD)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
