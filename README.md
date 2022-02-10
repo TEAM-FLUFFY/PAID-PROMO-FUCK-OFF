@@ -1,22 +1,16 @@
 <p align="center">
-  <img src="LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
+  <img https://telegra.ph/file/412a0ec30c9bb5a4cae13.jpg" alt="RockyBhai BotLogo">
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/FCU_XJmyG_U">𝗟𝘂𝗰𝗶𝗳𝗲𝗿𝗠𝗼𝗿𝗶𝗻𝗴𝘀𝘁𝗮𝗿 𝗥𝗼𝗯𝗼𝘁</a>
+  <a href="https://t.me/TEAM_KERALA">ᖇOᑕKY ᗷᕼᗩI ᐯ3 ᗷOT</a>
 </p>
 
 <img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" /> <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" />
 
 
 
-### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 🤔
-<a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
-
-### 🔔 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 🔔
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
-
-### 🔘 <a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/tree/Professor-99/LuciferMoringstar_Robot/modules">𝗔𝗱𝗱𝗲𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</a> 🔘
+### 🔘 <a href="https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY/tree/Professor-99/LuciferMoringstar_Robot/modules">𝗔𝗱𝗱𝗲𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</a> 🔘
 
 - [x] IMDB Poster
 - [x] IMDB Rating
@@ -32,7 +26,7 @@
 - [x] Custom Caption
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot"><img src="LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY"><img src="https://telegra.ph/file/412a0ec30c9bb5a4cae13.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
