@@ -26,7 +26,7 @@
 - [x] Custom Caption
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY"><img src="https://telegra.ph/file/412a0ec30c9bb5a4cae13.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY"><img src="https://telegra.ph/file/412a0ec30c9bb5a4cae13.jpg"
 
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
@@ -41,12 +41,12 @@
 * `FORCE_SUB`: ID of channel. Without subscribing this channel users cannot use bot.
 * `AUTH_GROUPS` : Id Of Groups Which Bot Should Work As Autofilter, Bot Can Only Work In Thease Groups. If Not Given , Bot Can Be Used In Any Group.
 * `AUTH_USERS`: Username Or Id Of Users To Give Access Of Inline Search. Separate Multiple Users By Space. Leave It Empty If You Don't Want To Restrict Bot Usage.
-* `START_MSG`: Welcome Message For Start Command Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/start_msg)
-* `CUSTOM_FILE_CAPTION` : A Custom Caption For Your Files. Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/file_caption.txt)
-* `PICS`: Telegraph Random Photo Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/photo.txt)
+* `START_MSG`: Welcome Message For Start Command Eg [Click Here](https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/_Rocky_)
+* `CUSTOM_FILE_CAPTION` : A Custom Caption For Your Files. Eg [Click Here](https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/file_caption.txt)
+* `PICS`: Telegraph Random Photo Eg [Click Here](https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/photo.txt)
 * `DEV_NAME` : Developer Name
 * `SPELL_MODE` : Seplling Mode On Or Off
-* `SPELL_MODE_TEXT` : Set Coutom Spelling Mode Text Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/spell_check.txt)
+* `SPELL_MODE_TEXT` : Set Coutom Spelling Mode Text Eg [Click Here](https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/spell_check.txt)
 
 * `CACHE_TIME`: The maximum amount of time in seconds that the result of the inline query may be cached on the server
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/gBLTsH-IXr0)
