@@ -1,7 +1,7 @@
 {
-    "name": "LuciferMoringstar_Robot",
-    "description": "Super Fast Telegram Auto Filter Bot",
-    "logo": "https://telegra.ph/file/aabbe1b1f267be91206c5.jpg",
+    "name": "ᖇOᑕKYᗷᕼᗩI ᐯ3_ᖇOᗷOT",
+    "description": "𝗞𝗘𝗥𝗔𝗟𝗔 𝗨𝗬𝗜𝗥 𝗡𝗝𝗘𝗡 𝗥𝗢𝗖𝗞𝗬 𝗕𝗛𝗔𝗜",
+    "logo": "https://telegra.ph/file/de5773b4584b3048054ca.jpg",
     "stack": "container",
     "keywords": [
       "best",
@@ -10,8 +10,8 @@
       "filter",
       "bot"
     ],
-    "website": "https://youtube.com/c/MoTech_YT",
-    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
+    "website": "https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY",
+    "repository": "https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From https://youtu.be/cB4UduCcNWs",
@@ -59,7 +59,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "Mongodb from https://youtu.be/gBLTsH-IXr0",
+            "description": "Mongodb from www.MongoDb.com/",
             "value": ""
         },
         "SPELL_MODE": {
@@ -83,7 +83,7 @@
         },
         "SUPPORT": {
             "description": "Your Group Link Private or Public Link (with t.me or https://t.me)",
-            "value": "https://telegram.dog/Mo_Tech_Group",
+            "value": "https://telegram.dog/ADHOLOKAMHD",
             "required": true
         }
     },
