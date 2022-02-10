@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/TEAM_KERALA">ᖇOᑕKY ᗷᕼᗩI ᐯ3 ᗷOT</a>
+  <a href="https://t.me/TEAM_KERALA">ᖇOᑕKY ᗷᕼᗩI</a>
 </p>
 
 <img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" /> <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" />
@@ -25,9 +25,8 @@
 - [x] Status
 - [x] Custom Caption
 
-### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY"><img src="https://telegra.ph/file/412a0ec30c9bb5a4cae13.jpg"
-
+### CLICK BELOW IMAGE AND DEPLOY👇👇
+<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot"><img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
 
