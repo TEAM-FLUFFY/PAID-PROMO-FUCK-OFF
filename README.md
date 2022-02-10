@@ -1,5 +1,5 @@
 <p align="center">
-  <img https://telegra.ph/file/412a0ec30c9bb5a4cae13.jpg">
+  <img src="https://telegra.ph/file/412a0ec30c9bb5a4cae13.jpg" /></a>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 - [x] Custom Caption
 
 ### CLICK BELOW IMAGE AND DEPLOY👇👇
-<a href="https://heroku.com/deploy?template=https://https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY"><img src="https://telegra.ph/file/de5773b4584b3048054ca.jpg/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="420" width="300" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://https://github.com/TEAM-FLUFFY/PAID-PROMO-ROCKY"><img src="https://telegra.ph/file/ea4791eb4e1b0b267aa05.jpg" alt="PR0FESS0R-99" border="0" height="420" width="300" align="center" /></a>
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
 
